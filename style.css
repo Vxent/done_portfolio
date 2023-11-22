@@ -1,4 +1,3 @@
-
 .logo {
     padding-left: 10px;
 }
@@ -50,11 +49,7 @@ p {
   
     
 }
-.note {
-    position: relative;
-    top: 10px;
-}
-   
+
 
 .logo {
     padding-left: 120px;
@@ -142,7 +137,10 @@ p {
     right: -180px;
     bottom: 50px;
 }
-
+.pic1 {
+    position: relative;
+    padding: 20px
+}
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
     html,
@@ -155,5 +153,4 @@ p {
 
 }
 }
-
 
