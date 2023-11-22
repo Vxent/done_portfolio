@@ -1,0 +1,168 @@
+
+.logo {
+    padding-left: 10px;
+}
+.btn {
+    background-color: green;
+}
+h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+    
+}
+h4 {
+    font-family: 'Bebas Neue', sans-serif;
+    
+}
+h6 {
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: left;
+    
+}
+p {
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: left;
+    
+}
+.gok {
+    position: relative;
+    left: 100px;
+}
+.text1 {
+    position: relative;
+    left: 100px;
+    top: 180px;
+}
+.body {
+    max-width: 1500px;
+    margin: 0 auto;
+
+}
+.nav-item {
+    display: flex;
+    margin: 0;
+    align-items: center;
+    padding-right: 80px;
+  
+    
+}
+.note {
+    position: relative;
+    top: 10px;
+}
+   
+
+.logo {
+    padding-left: 120px;
+}
+
+.cert3 {
+    position: relative;
+    padding-left: 20px;
+}
+.cert4 {
+    position: relative;
+    padding-right: 20px;
+}
+.portpolio {
+    position: relative;
+    padding-top: 100px;
+}
+.are {
+    position: relative;
+    padding-top: 100px;
+}
+.cards {
+    position: relative;
+    padding-bottom: 100px;
+}
+.servtext {
+    position: relative;
+    padding-top: 100px;
+}
+.iphone {
+    position: relative;
+    padding-bottom: 100px;
+}
+.pic1 {
+    position: relative;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 150px;
+}
+.herosec {
+    position: relative;
+    
+}
+
+#hero {
+    background-image: url(lupet.gif);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#home {
+    background-image: url(wp3684409.gif);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#portpolio {
+    background-image: url(lupet.gif);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#certificate {
+    background-image: url(lupet.gif);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#services {
+    background-image: url(lupet.gif);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#about {
+    background-image: url(ANGAS.gif);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#cta2  {
+    background-image: url(gg.webp);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+#footer {
+    background-image: url(Footer-Background-Image.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+
+}
+.simson {
+    position: relative;
+    right: 200px;
+    bottom: 50px;
+}
+.simson2 {
+    position: relative;
+    right: -180px;
+    bottom: 50px;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+    html,
+    body{
+    width:100%;
+    overflow-x:hidden;
+    }
+  [class*="col-"] {
+    width: 100%;
+
+}
+}
+
+
